@@ -1,0 +1,22 @@
+body{
+    background-color: #eba117;
+
+}
+
+.admin{
+    background-color: #ecf0f1;
+    padding: 50px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.st{
+    font-weight: 700;
+}
+
+.centrer{
+    margin: 70px auto;
+    width: 54%;
+    box-shadow: 1px 2px 3px 2px white;
+}
+

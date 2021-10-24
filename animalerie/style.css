@@ -1,0 +1,49 @@
+
+body{
+    background-color: #348d1e;
+}
+
+.colg{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.login-form 
+{
+    width: 800px;
+    margin: 50px auto;
+}
+
+.btne{
+    background-color: #1db43e;
+    color: white;
+    border: none;
+    padding: 7px;
+    font-weight: 700;
+}
+.login-form form 
+{
+    margin-bottom: 15px;
+    background: white;
+    box-shadow: 0px 2px 2px 1px #1097c0;
+    padding: 30px;
+}
+.col-left{
+    background-color: #f39c12;
+}
+.login-form h2
+{
+    margin: 0 0 15px;
+}
+
+.form-control, .btn 
+{
+    min-height: 38px;
+    border-radius: 2px;
+}
+
+.btn {        
+    font-size: 15px;
+    font-weight: bold;
+}
+        
